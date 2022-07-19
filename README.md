@@ -33,3 +33,26 @@ To install requirements folder
  git remote -v
 
  git branch
+
+ to setup CI/CD in heroku
+ heroku_email = madhurya3110@gmail.com
+ heroku_api_key = 039901c1-0480-4648-9491-4fa8cd95334b
+ heroku_app_name = 
+
+ BUILD DOCKER IMAGE
+
+ docker build -t <image_name>:<tag_name>
+
+ To list docker images
+
+docker images
+
+Run docker image
+docker run -p 5000:5000 -e PORT =5000 image id
+
+To check running container in docker
+docker ps
+
+To stop docker container
+
+docker stop <container_id>
