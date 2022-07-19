@@ -36,8 +36,8 @@ To install requirements folder
 
  to setup CI/CD in heroku
  heroku_email = madhurya3110@gmail.com
- heroku_api_key = 039901c1-0480-4648-9491-4fa8cd95334b
- heroku_app_name = 
+ heroku_api_key = <>
+ heroku_app_name = ml-regression-app-3110
 
  BUILD DOCKER IMAGE
 
