@@ -41,7 +41,7 @@ To install requirements folder
 
  BUILD DOCKER IMAGE
 
- docker build -t <image_name>:<tag_name>
+ docker build -t <image_name>:<tag_name> .
 
  To list docker images
 
